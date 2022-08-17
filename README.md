@@ -4,13 +4,13 @@
 -Search for any of the top 200 crypto coins to see today's prices as well as the % change from 1 hour ago up to 24hrs ago
 -See from a glance which coins are up or down with traditional stock color coding
 
-#Why I built the project this way
+# Why I built the project this way
 
 -The CoinGecko API is one of the few API's I could realistically read and grab info from at my current level of development
 -I didn't want to make a simple static website while learning React, so I challenged myself to find more in-depth ways
 of using the library in more dynamic ways.
 
-#What I would change
+# What I would change
 
 -I would find a deeper API that included all coins, and maybe even traditional stocks, that could be searched and reviewed.
 -I would add a clickable event to trigger to all items that would then re-direct to a full informational page about the coin/stock.
