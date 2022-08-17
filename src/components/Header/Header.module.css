@@ -1,0 +1,17 @@
+header {
+    width: 100%;
+    padding: 1em;
+    background: linear-gradient(rgb(82, 82, 195), lightblue);
+    text-align: center;
+    color: #1c1c1c
+}
+
+.title {
+    font-family: 'Rubik Iso', 'Kanit', sans-serif;
+    padding-left: 5px;
+}
+
+.subheader {
+    font-family: 'Kanit', sans-serif;
+}
+

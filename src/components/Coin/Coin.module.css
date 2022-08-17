@@ -1,0 +1,61 @@
+.coin__container{
+    display: flex;
+    font-family: 'Kanit', sans-serif;
+}
+
+.coin__row {
+    display: flex;
+    border-bottom: 1px solid #d7d7d7;
+}
+
+.coin,
+.coin__data {
+    display: flex;
+    align-items: center;
+    width: 35vw;
+    text-align: center;
+}
+
+.rank {
+    width: 1em;
+}
+
+.coin__name {
+    font-size: 20px;
+    width: 10em;
+    text-align: center;
+}
+
+.coin__img {
+    width: 40px;
+    height: 40px;
+    padding: 0 1.5em;
+}
+
+.ticker {
+    text-transform: uppercase;
+    text-align: center;
+    width: 4em;
+}
+
+.coin__price {
+    width: 5em;
+}
+
+.red, .green {
+    width: 10em;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green
+}
+
+.coin__volume {
+    width: 10em;
+}
+
+
